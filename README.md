@@ -18,3 +18,5 @@
 	
 
  6. [**Build**](https://github.com/VICTORVICKIE/Kivy_Python_C_Extension_Demo/blob/main/bin/myapp-0.1-armeabi-v7a-debug.apk) with `buildozer android debug deploy run logcat`
+
+&nbsp;&nbsp;&nbsp;&nbsp;****Note : I've used custom ndk, sdk paths in spec file****
