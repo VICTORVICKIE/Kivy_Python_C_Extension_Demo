@@ -1,6 +1,6 @@
 ## **Kivy Python C Extension Template**
 
- 1. *[A simple C Extension](https://github.com/VICTORVICKIE/Kivy_Python_C_Extension_Demo/blob/main/custom_lib/custom_lib/billbook_test.c) to return a string*
+ 1. *[A simple C Extension](https://github.com/VICTORVICKIE/Kivy_Python_C_Extension_Demo/blob/main/custom_lib/custom_lib/custom_module.c) to return a string*
  2. ***Build** it using [setup.py](https://github.com/VICTORVICKIE/Kivy_Python_C_Extension_Demo/blob/main/custom_lib/setup.py) / [setup.cfg](https://github.com/VICTORVICKIE/Kivy_Python_C_Extension_Demo/blob/main/custom_lib/setup.cfg)*
  3. [**Import** C Extension](https://github.com/VICTORVICKIE/Kivy_Python_C_Extension_Demo/blob/main/main.py#L4) in Kivy / Python
  4. ***Create** a simple Recipe for Compiled Component for Buildozer / P4A*
