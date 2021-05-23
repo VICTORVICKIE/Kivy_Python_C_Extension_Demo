@@ -2,6 +2,7 @@ from kivy.app import App
 from kivy.uix.label import Label
 
 from custom_lib import custom_module
+
 class MyApp(App):
 
     def build(self):

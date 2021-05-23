@@ -4,8 +4,8 @@ static PyObject* custom_hello(PyObject* self){
 	return PyUnicode_FromString("Hello from Custom Lib");
 }
 
-
 static struct PyModuleDef methods[] = {
+
 	{"custom_hello", (PyCFunction)custom_hello, METH_NOARGS},
 	{NULL, NULL}
 };
