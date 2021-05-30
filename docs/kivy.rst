@@ -152,7 +152,7 @@ Install the custom_lib by running the below command in directory where your setu
 
 	❯ pip install .
 
-.. tip::
+.. admonition:: Output
 
    The output of the above command should be something like this,
 
@@ -166,7 +166,7 @@ Now check if the custom_lib works, with the cli command given in entry_points
 
    ❯ custom-lib-cli
 
-.. note::
+.. admonition:: Output
 
    The output of the above command depends on your entry_points!
 
