@@ -1,6 +1,5 @@
 from pythonforandroid.recipe import CompiledComponentsPythonRecipe
 
-
 class BillBookLibRecipe(CompiledComponentsPythonRecipe):
 
 	site_packages_name = 'custom_lib'
